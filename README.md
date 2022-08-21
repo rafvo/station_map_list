@@ -1,24 +1,17 @@
-# stepper_form
+# Projeto: Mapa para visualização de Estações
 
-## Project setup
+## Configuração
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Comando para compilar o vue
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Comando para executar o json-server
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+npm run json-server
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
