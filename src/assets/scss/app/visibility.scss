@@ -1,0 +1,13 @@
+.visible {
+  visibility: visible;
+}
+
+.not-visible > * {
+  visibility: hidden;
+  display: none;
+}
+
+.not-visible > .visible {
+  visibility: visible;
+  display: block;
+}
