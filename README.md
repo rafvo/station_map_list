@@ -1,4 +1,4 @@
-# Projeto: Mapa para visualização de Estações
+# Projeto: Mapa para visualização de estações
 
 ## Configuração
 ```
